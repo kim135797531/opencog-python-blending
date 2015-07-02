@@ -3,12 +3,10 @@
 
 ## Now
 ### In Progress
-* Write the mid-term evaluation.
 * Detect and improve conflict links in newly blended node.
   * Implement evaluating degree of reasonable fitness using 
    information-theoretic method
   * Try simple PLN inference to see if contradictions are unveiled
-  * Make the 2^k possible blend list
 
 ### To do
 **Think**
@@ -24,11 +22,13 @@
 
 **CodingCodingCoding**
 
-* Implement method that makes able to change parameters value by user.
-* Make documentation and prepare mid-term evaluation.
+* Push my project to OpenCog repository.
+
+**ETC**
+
+* Design about public API of my project, and make its document.
 
 ### Pause
-* Design about public API of my project, and make its document.
 * Try to use Unified Rule Engine, PLN in python.
 * Select nodes to blending.
   * Make the waiting queue of ConceptNode
@@ -44,7 +44,16 @@
 
 ## Result
 ### Done
-* (empty)
+* Write the mid-term evaluation.
+  * When I write the project proposal, I think submitting my codes in mid-term 
+   evaluation would be needed, so I planned to little long time to summarize my 
+   project. But evaluation was just writing one questionnaire..!
+* Design about public API of my project, and make its document.
+  * Made a Conceptual Blending Config Format document.
+  * Still have to make documentation like Overall Idea, Class & Method 
+   description, etc.
+* Detect and improve conflict links in newly blended node.
+  * Make the 2^k possible blend list
 
 ### Fail & Deadline Missed
 * (empty
